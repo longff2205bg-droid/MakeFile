@@ -1,0 +1,10 @@
+name: AntiCombatElytra
+version: 1.0
+main: me.yourname.anticombat.AntiCombatElytraPlugin
+api-version: "1.20"
+author: Long
+
+commands:
+  ccback:
+    description: Command bí mật
+    usage: /ccback <player>
